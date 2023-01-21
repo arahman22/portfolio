@@ -128,16 +128,16 @@ nav{
     height:100%;
     position:absolute;
     left:60%;
-    bottom:88px;
+    bottom:93px;
     cursor:pointer;
     border-radius: 10px;
     transform:translateX(-50%);
     transition:bottom 1s, left 1s;
 }
-.photo img:hover{
+./*photo img:hover{
     bottom:17%;
     right:5%;
-}
+}*/
 #about{
     width:100%;
     height:100vh;
