@@ -191,6 +191,7 @@ nav{
     justify-content:center;
     align-items:center;
     padding:60px 2% 20px 2%;
+    background-color:#292929;
 }
 #portfolio h1{
     font-family:Calibri;
@@ -275,6 +276,7 @@ nav{
      display:flex;
      justify-content:center;
      align-items:center;
+     background-color:#292929;
  }
 #contact form{
      width:70%;
